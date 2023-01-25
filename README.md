@@ -1,4 +1,5 @@
-<h1>Hi, I'm Pres! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
+<h1>Hi, I'm Pres! <br/><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
+<h3>- 🌱 I’m currently learning Java, Python 💻</h3>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -43,7 +44,7 @@
 **preston176/preston176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on 
-- 🌱 I’m currently learning Java, Python 💻
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
