@@ -1,9 +1,10 @@
 <h1>Hi, I'm Pres! <br/><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
 <h3>- 🌱 I’m currently learning Java, Python, Front-end engineering 💻</h3>
 <h2>👨‍💻 My Web Development Projects:</h2>
--<b>[Simple TicTacToe using HTML CSS JS](https://preston176.github.io/tictactoe/)</b>
+- <b>Simple TicTacToe using HTML CSS JS</b>
+  -(https://preston176.github.io/tictactoe/)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Other Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
