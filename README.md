@@ -1,5 +1,11 @@
 <h2>Hi, I'm Pres! <br/><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
 <h3>- 🌱 I’m currently learning Java, Python, Front-end engineering 💻</h3>
+<b>Computer science resources</b>
+<ol>
+  <li>
+- [2.2 Notes](https://github.com/preston176/0x0resources)
+    </li>
+  </ol>
 <h2>👨‍💻 My Popular Web Development Projects:</h2>
 - <b>Simple TicTacToe using HTML CSS JS</b>
   -(https://preston176.github.io/tictactoe/)
