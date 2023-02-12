@@ -6,7 +6,7 @@
 <h3>- 🌱 I’m currently learning Javascript frameworks, Python, Front-end engineering 💻</h3>
 <b>Computer science resources</b>
 <ol>
-  <li>
+  <li align="right">
 [2.2 Notes](https://github.com/preston176/0x0resources)
     </li>
   </ol>
