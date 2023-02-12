@@ -1,15 +1,13 @@
 <h2 align="left">Hi, I'm Pres! </h2><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
 </br>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=dracula)](https://github.com/preston176/github-readme-stats)
-<br></br>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=dracula)](https://github.com/preston176/github-readme-stats)</b>
+
 <h3>- 🌱 I’m currently learning Javascript frameworks, Python, Front-end engineering 💻</h3>
-<b>Computer science resources</b>
-<ol>
-  <li align="right">
+</br>
+  <b>Computer science resources 💻</b>
 [2.2 Notes](https://github.com/preston176/0x0resources)
-    </li>
-  </ol>
+ 
 <h2>👨‍💻 My Popular Web Development Projects:</h2>
 - <b>Simple TicTacToe using HTML CSS JS</b>
   -(https://preston176.github.io/tictactoe/)
