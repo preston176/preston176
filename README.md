@@ -1,4 +1,5 @@
 <h3 align="left">Hi, I'm Pres! </h3><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
+
 </br>
 <a align="right"
 
@@ -6,9 +7,11 @@
 </a>
 
 <p align='left'>
+<b> Languages
+
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" /> 
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" />
 
 </p>
 
@@ -38,9 +41,9 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
   - [Python Comprehensive tutorial](https://www.youtube.com/watch?v=kWEbNBXc2-Y)
--->
-<h4>📺 Popular YouTube Videos</h4>
-<!--
+  -->
+  <h4>📺 Popular YouTube Videos</h4>
+  <!--
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
@@ -62,12 +65,12 @@
 <!--
 **preston176/preston176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
 -->
