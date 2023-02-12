@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176)](https://github.com/preston176/github-readme-stats)
 <h2>Hi, I'm Pres! <br/><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
 <h3>- 🌱 I’m currently learning Java, Python, Front-end engineering 💻</h3>
 <b>Computer science resources</b>
