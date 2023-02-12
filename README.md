@@ -5,9 +5,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=dracula)](https://github.com/preston176/github-readme-stats)</b>
 </a>
-
+<h4>Languages</h4>
 <p align='left'>
-<b> Languages
 
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
@@ -17,7 +16,7 @@
 
 </br>
   <b>Computer science resources 💻</b>
-[2.2 Notes](https://github.com/preston176/0x0resources)
+  - [2.2 Notes](https://github.com/preston176/0x0resources)
  
 <h4>👨‍💻 My Popular Web Development Projects:</h4>
 - <b>Simple TicTacToe using HTML CSS JS</b>
