@@ -3,7 +3,7 @@
 <b>Computer science resources</b>
 <ol>
   <li>
-- [2.2 Notes](https://github.com/preston176/0x0resources)
+- [2.2 Notes] (https://github.com/preston176/0x0resources)
     </li>
   </ol>
 <h2>👨‍💻 My Popular Web Development Projects:</h2>
