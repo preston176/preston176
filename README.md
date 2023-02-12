@@ -2,6 +2,7 @@
 </br>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=dracula)](https://github.com/preston176/github-readme-stats)
+<br></br>
 <h3>- 🌱 I’m currently learning Javascript frameworks, Python, Front-end engineering 💻</h3>
 <b>Computer science resources</b>
 <ol>
