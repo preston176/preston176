@@ -16,8 +16,10 @@
 </p>
 
 </br>
+<!--
   <b>Computer science resources 💻</b>
 [2.2 Notes](https://github.com/preston176/0x0resources)
+-->
  
 <h4>👨‍💻 My Popular Web Development Projects:</h4>
 - <b>Simple TicTacToe using HTML CSS JS</b>
