@@ -3,7 +3,7 @@
 </br>
 <a align="right"
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=dracula&langs_count=10)](https://github.com/preston176/github-readme-stats)</b>
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=midnight_purple&langs_count=10)](https://github.com/preston176/github-readme-stats)</b>
 </a>
 
 <h4> Languages </h4>
