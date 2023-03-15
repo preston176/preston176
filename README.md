@@ -68,7 +68,7 @@
 [twitter]: https://twitter.com/Preston_176
 [youtube]: https://www.youtube.com/c/preston176
 [instagram]: https://www.instagram.com/preston_werg/
-[linkedin]: https://www.linkedin.com/in/preston-mayieka-71a532174/
+[linkedin]: https://www.linkedin.com/in/preston-mayieka-308b2b24a/
 
 <!--
 **preston176/preston176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
