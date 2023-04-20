@@ -1,4 +1,5 @@
-<p align="left">Hello there, I'm Pres! </p><a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
+### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
+<a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
 
 
 <h2><a href="https://preston176.github.io/">Portfolio</a></h2>
