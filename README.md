@@ -1,87 +1,59 @@
 ### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
-<a href="https://github.com/preston176">Programmer</a>, <a href="https://www.linkedin.com/in/preston-mayieka-71a532174/">CS Enthusiast</a>, <a href="https://www.youtube.com/c/preston176">YouTuber😉</a></h1>
+
+---
+<h1 align="center">I'm Pres</h1>
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/preston-mayieka-308b2b24a)
+&nbsp;
+
+<!---![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0jcHjZNCbROezds4Kyh8yA?style=social) -->
+![Twitter Follow](https://img.shields.io/twitter/follow/preston_176?label=Connect%20With%20Me%20On%20Twitter&style=social)
+
+### Check out my portfolio:point_right: [Click Here](https://preston176.github.io/)
 
 
-<h2><a href="https://preston176.github.io/">Portfolio</a></h2>
-</br>
+![Banner](https://github.com/preston176/preston176/blob/main/Preston176banner.png?raw=true)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=preston176&theme=midnight-purple&langs_count=10&layout=compact)](https://github.com/preston176/github-readme-stats)</b>
+<h3 align="left">Tech Stack:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+---
+### About Me
+
+- I'm a web developer and I use **JavaScript**, **Python**
+
+- I'm currently learning **Flutter**, **Jetpack Compose**
+
+- I m also a tech Enthusiast
+
+---
+
+### 💻 *My Popular projects*:
+- [TicTacToe using HTML CSS and JS](https://https://preston176.github.io/tictactoe/)
+- [Hotstar Clone using HTML CSS JS](https://dciklu.csb.app/)
 
 
-#### TECHSTACK
-<p align='left'>
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/html5.svg" alt="Html" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/css3.svg" alt="CSS" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/javascript.svg" alt="JS" height="50" width="50" />
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/social%20icons/python.svg" alt="Python" height="50" width="50" />
+### 👨‍💻 More Useful Resources
+- Get RoadMap for Software Development - [Roadmap.sh](https://www.roadmap.sh/) 
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codewithtomi" height="30" width="40" /></a>
+<a href="mailto:prestonnyamweya@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tomitokko" height="30" width="40" /></a>
+<a href="https://twitter.com/preston_176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
+<a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a>
+<a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preston176&" alt="preston176" /></p>
-</br>
-<!--
-  <b>Computer science resources 💻</b>
-[2.2 Notes](https://github.com/preston176/0x0resources)
--->
- 
-<h4>👨‍💻 My Popular Web Development Projects:</h4>
-- <b>Simple TicTacToe using HTML CSS JS</b>
-  -(https://preston176.github.io/tictactoe/)
-  
-  - <b>Disney+ Hotstar clone HTML CSS JS</b>
-  -[Live link](https://dciklu.csb.app/)
-  
-  <img align="left" alt="Pres176 GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=preston176&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-<!--
-<h2>👨‍💻 Other Software Development Projects:</h2>
+---
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-  - [Python Comprehensive tutorial](https://www.youtube.com/watch?v=kWEbNBXc2-Y)
-  -->
-  
-  <!--
-<h4>📺 Popular YouTube Videos</h4>
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
--->
-<h4> 🤳 Connect with me:</h4>
+## &#x1f4c8; GitHub Stats
 
-[<img align="left" alt="Preston176 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Preston176 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Preston176 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Preston176 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[twitter]: https://twitter.com/Preston_176
-[youtube]: https://www.youtube.com/c/preston176
-[instagram]: https://www.instagram.com/preston_werg/
-[linkedin]: https://www.linkedin.com/in/preston-mayieka-308b2b24a/
+<p><img src="https://github-readme-stats.vercel.app/api?username=preston176&show_icons=true&locale=en&count_private=true& alt="preston176" /></p>
 
-<!--
-**preston176/preston176** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-- 🔭 I’m currently working on
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact:
--->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prestonm176)](https://github.com/anuraghazra/github-readme-stats)
