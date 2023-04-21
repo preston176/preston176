@@ -52,8 +52,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=preston176&show_icons=true&locale=en&count_private=true& alt="preston176" /></p>
+[![Preston176's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston176)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prestonm176)](https://github.com/anuraghazra/github-readme-stats)
+[![preston176's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=preston176)](https://github.com/anuraghazra/github-readme-stats)
