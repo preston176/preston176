@@ -56,4 +56,8 @@
 
 <hr>
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prestonm176)](https://github.com/anuraghazra/github-readme-stats)
+
+<hr>
+
 [![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a)
