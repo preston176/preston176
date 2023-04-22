@@ -1,66 +1,56 @@
-### Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif">, welcome to my profile.
+[![](https://visitcount.itsvg.in/api?id=preston176&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-<h1 align="center">I'm Pres</h1>
-
-[![](https://visitcount.itsvg.in/api?id=preston176&icon=0&color=1)](https://visitcount.itsvg.in)
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/preston-mayieka-308b2b24a)
-&nbsp;
-
-<!---![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC0jcHjZNCbROezds4Kyh8yA?style=social) -->
-![Twitter Follow](https://img.shields.io/twitter/follow/preston_176?label=Connect%20With%20Me%20On%20Twitter&style=social)
-
-### Check out my portfolio:point_down: 
+## Hi there <img width="20" height="20" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> I'm Pres, welcome to my profile.
+<hr>
 
 
+### I'm a 👨‍💻:
 
-<a href="https://preston176.github.io/"><img align="center" src="https://github.com/preston176/preston176/blob/main/Preston176banner.png?raw=true" width="125" height="50"> </a></img>
+* Tech Enthusiast
+* Computer Scientist
+* Software Dev
 
-<h3 align="left">Tech Stack:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <!--<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>-->  <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
----
-### About Me
+## 🌐 Find me on Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preston-mayieka-308b2b24a/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/presn176) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Preston_176) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/preston176) 
 
-- I'm a web developer and I use **JavaScript**, **Python**
-
-- I'm currently learning **Flutter**, **Jetpack Compose**
-
-- I m also a tech Enthusiast
-
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 💻 *My Popular projects*:
 - [TicTacToe using HTML CSS and JS](https://https://preston176.github.io/tictactoe/)
 - [Hotstar Clone using HTML CSS JS](https://dciklu.csb.app/)
 
-
 ### 👨‍💻 More Useful Resources
 - Get RoadMap for Software Development - [Roadmap.sh](https://www.roadmap.sh/) 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCmoCVWQp2d8BNisZVFzKGWQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="codewithtomi" height="30" width="40" /></a>
-<a href="mailto:prestonnyamweya@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://twitter.com/preston_176" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tomitokko" height="30" width="40" /></a>
-<a href="https://medium.com/@tomitokko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@tomitokko" height="30" width="40" /></a>
-<a href="https://dev.to/tomitokko3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tomitokko" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=preston176&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=preston176&theme=dark&hide_border=false)<br/>
+<hr>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=preston176&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+
+## ⌚ Wakatime Stats
+[![Pres176's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prestonm176)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a)
+
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=preston176&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
+
 
 ---
 
-## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/paypalme/collinzeal19) 
 
-[![Preston176's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston176&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=prestonm176)](https://github.com/anuraghazra/github-readme-stats)
-
-<hr>
-
-[![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a)
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
