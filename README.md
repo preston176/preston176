@@ -3,6 +3,8 @@
 ---
 <h1 align="center">I'm Pres</h1>
 
+[![](https://visitcount.itsvg.in/api?id=preston176&icon=0&color=1)](https://visitcount.itsvg.in)
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/preston-mayieka-308b2b24a)
 &nbsp;
 
