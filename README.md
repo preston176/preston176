@@ -52,7 +52,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dracula&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Preston176's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston176&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Preston176's GitHub stats](https://github-readme-stats.vercel.app/api?username=preston176&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
