@@ -20,6 +20,7 @@
 ### 💻 *My Popular projects*:
 - [TicTacToe using HTML CSS and JS](https://preston176.github.io/tictactoe/)
 - [Hotstar Clone using HTML CSS JS](https://dciklu.csb.app/)
+- [Movie Website with Search functionality](https://preston176.github.io/Movie-site/)
 
 ### 👨‍💻 More Useful Resources
 - Get RoadMap for Software Development - [Roadmap.sh](https://www.roadmap.sh/) 
