@@ -42,9 +42,9 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a)
+<!-- [![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a) -->
 
-<!-- ### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=preston176&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 
