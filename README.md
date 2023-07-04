@@ -6,7 +6,7 @@
 
 ### I'm a 👨‍💻:
 
-* Tech Enthusiast
+* Web Developer
 * Computer Scientist
 * Software Dev
 
