@@ -6,7 +6,7 @@
 
 ### I'm a 👨‍💻:
 
-* Web Developer
+* REACT Developer
 * Computer Scientist
 * Software Dev
 
@@ -32,9 +32,13 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=preston176&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=preston176&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston176&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preston176&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=preston176&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=preston176&theme=github_dark)
+<!--![](https://github-readme-stats.vercel.app/api?username=preston176&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/> -->
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=preston176&theme=dark&hide_border=true)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=preston176&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
