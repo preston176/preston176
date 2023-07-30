@@ -29,7 +29,7 @@
 
 ### 👨‍💻 More Useful Resources
 - Get RoadMap for Software Development - [Roadmap.sh](https://www.roadmap.sh/)
-- The Odin Project - [Roadmap.sh](https://theodinproject.com/)
+- The Odin Project - [Odin Project](https://theodinproject.com/)
 
 
 # 📊 GitHub Stats:
