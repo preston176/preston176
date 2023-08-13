@@ -1,13 +1,13 @@
 Hi there, my name is Pres
 ============================================================================================================================
 
-\- Web developer skilled in utilizing front-end libraries like React and Vue to build dynamic and interactive components that enhance user engagement
 ----------------
-* I am currently learning: Redux , React-Native
+#### I'm a Web developer skilled in utilizing front-end libraries to build dynamic and interactive components that enhance user engagement
+* 🧠 I am currently learning: Redux , React-Native
 
 * 🖥️  Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
 
-### Skills
+### TechStack
 
 
 <p align="left">
@@ -28,6 +28,13 @@ Hi there, my name is Pres
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### My Stats
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=preston176&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=preston176&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=preston176&theme=github_dark)
 
 
 ### Socials
