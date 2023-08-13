@@ -1,8 +1,9 @@
-Hi ![hand](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pres
+Hi there, my name is Pres
 ============================================================================================================================
 
-\- Web developer
+\- Web developer skilled in utilizing front-end libraries like React and Vue to build dynamic and interactive components that enhance user engagement
 ----------------
+* I am currently learning: Redux , React-Native
 
 * 🖥️  Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
 
