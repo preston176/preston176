@@ -2,7 +2,7 @@ Hi there, my name is Pres
 ============================================================================================================================
 
 ----------------
-#### I'm a Blogger, Web developer skilled in utilizing front-end libraries to build dynamic and interactive components that enhance user engagement
+#### I'm a Technical writer, Web developer skilled in utilizing front-end libraries to build dynamic and interactive components that enhance user engagement
 * 🧠 I am currently learning: Redux , React-Native
 
 * 🖥️  Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
