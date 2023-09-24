@@ -6,7 +6,7 @@ Hi there, my name is Pres
 * 🧠 I am currently learning: Redux , React-Native
 
 * 🖥️  Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
-* 🖥️ Also Checkout my blog [HERE](http://https://codewithpres.hashnode.dev/)
+*  🖥️ Also Checkout my blog [HERE](https://codewithpres.hashnode.dev/)
 
 ### TechStack
 
