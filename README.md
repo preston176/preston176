@@ -6,7 +6,7 @@ Hi there, my name is Pres
 * 🧠 I am currently learning: Redux , React-Native
 
 * 🖥️  Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
-*  🖥️ Also Checkout my blog [HERE](https://codewithpres.hashnode.dev/)
+* 🖥️ Also Checkout my articles [HERE](https://codewithpres.hashnode.dev/)
 
 ### TechStack
 
@@ -41,3 +41,8 @@ Hi there, my name is Pres
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/preston176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/preston-mayieka" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Preston_176" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+### 🎧 Currently listening on Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31lfumxho4r3lgqv42hp3sb4jaku&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31lfumxho4r3lgqv42hp3sb4jaku&redirect=true)
