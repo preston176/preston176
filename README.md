@@ -1,4 +1,4 @@
-Hi there, my name is Pres
+Hi there, my name is Preston Mayieka
 ============================================================================================================================
 
 #### I'm a Technical writer, Web developer skilled in utilizing front-end libraries to build dynamic and interactive components that enhance user engagement
