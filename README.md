@@ -30,7 +30,9 @@ Hi there, my name is Preston Mayieka
 
 ### Latest Articles 📚
 
-- [here]
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### My Stats
 
 
