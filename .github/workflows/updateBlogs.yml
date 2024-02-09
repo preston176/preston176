@@ -1,14 +1,20 @@
-name: Latest blog post workflow
-on: push
+name: Latest Blog Post Workflow
+
+on:
+  push:
   schedule:
     - cron: "0 * * * *"
+
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: preston176/updateBlogs@master
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Update Blogs
+        uses: preston176/updateBlogs@master
         with:
           max_post_count: "4"
           feed_list: "https://codewithpres.hashnode.dev/rss.xml"
