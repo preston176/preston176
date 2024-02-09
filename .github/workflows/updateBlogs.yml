@@ -1,9 +1,8 @@
 name: Latest Blog Post Workflow
 
 on:
-  push:
   schedule:
-    - cron: "0 * * * *"
+    - cron: '*/5 * * * *' # Run every 5 minutes
 
 jobs:
   update-readme-with-blog:
@@ -14,7 +13,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update Blogs
-        uses: preston176/updateBlogs@master
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://codewithpres.hashnode.dev/rss.xml"
