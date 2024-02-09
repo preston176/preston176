@@ -30,9 +30,7 @@ Hi there, my name is Preston Mayieka
 
 ### Latest Articles 📚
 
-- [Hacktoberfest 2023: Everything You Need To Know](https://gdscuoe.hashnode.dev/hacktoberfest-2023-everything-you-need-to-know)
-- [GitHub Student Developer Pack: A comprehensive Guide to Unlocking its perks](https://gdscuoe.hashnode.dev/github-student-developer-pack-a-comprehensive-guide-to-unlocking-its-perks)
-
+- [here]
 ### My Stats
 
 
