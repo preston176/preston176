@@ -31,11 +31,11 @@ Hi there, my name is Preston Mayieka
 ### Latest Articles 📚
 
 <!-- BLOG-POST-LIST:START -->
+- [Learn Web Development the &quot;Proper&quot; Way](https://codewithpres.hashnode.dev/learn-web-development-the-proper-way)
 - [Unlock Endless Opportunities with Talent](https://codewithpres.hashnode.dev/unlock-endless-opportunities-with-talent)
 - [Is AI taking over Web development ?](https://codewithpres.hashnode.dev/is-ai-taking-over-web-development)
 - [Top 3 React.js Project Ideas for Beginners](https://codewithpres.hashnode.dev/top-3-reactjs-project-ideas-for-beginners)
 - [React 19 is Coming 🔥🔥🔥](https://codewithpres.hashnode.dev/react-19-is-coming)
-- [The Importance of Custom 404 Pages in React Web Development](https://codewithpres.hashnode.dev/the-importance-of-custom-404-pages-in-react-web-development)
 <!-- BLOG-POST-LIST:END -->
 
 ### My Stats
