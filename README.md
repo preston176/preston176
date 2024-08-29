@@ -1,7 +1,7 @@
 Hi there, my name is Preston Mayieka
 ============================================================================================================================
 
-#### I'm a Technical writer, Web developer skilled in utilizing front-end libraries to build dynamic and interactive components that enhance user engagement
+#### I'm a Writer at the [freeCodeCamp](https://freecodecamp.org/news)
 * 🧠 I am currently learning: Generative LLMs and AI
 * 🖥️ Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
 * 📖 Also Checkout my articles [HERE](https://codewithpres.hashnode.dev/)
