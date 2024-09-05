@@ -1,7 +1,7 @@
 Hi there, my name is Preston Mayieka
 ============================================================================================================================
 
-#### I'm a Writer at the [freeCodeCamp](https://freecodecamp.org/news)
+#### I'm a Writer at the [freeCodeCamp](https://www.freecodecamp.org/news/author/preston176/)
 * 🧠 I am currently learning: Generative LLMs and AI
 * 🖥️ Checkout my portfolio by clicking [HERE](http://preston176.vercel.app)
 * 📖 Also Checkout my articles [HERE](https://codewithpres.hashnode.dev/)
