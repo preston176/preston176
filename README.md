@@ -20,7 +20,7 @@
 
 - 🌱 I'm currently learning: **📚 Machine Learning and AI**
 - 💬 Ask me about: **💡 JavaScript, Generative AI, Technical Writing, Automation**
-- 📂 Portfolio: **<a href="prestonmayieka.tech" target="_blank">prestonmayieka.tech</a>**
+- 📂 Portfolio: **<a href="https://preston176.vercel.app" target="_blank">prestonmayieka.tech</a>**
 
 **<h3 align="left">📚 My Latest Articles</h3>**
 
