@@ -25,11 +25,11 @@
 **<h3 align="left">📚 My Latest Articles</h3>**
 
 <!-- BLOG-POST-LIST:START -->
+- [Warp Terminal: The Ultimate Developer Tool for Windows](https://codewithpres.hashnode.dev/warp-terminal-the-ultimate-developer-tool-for-windows)
 - [Why Code Comments Should Focus on Reasons Over Actions](https://codewithpres.hashnode.dev/why-code-comments-should-focus-on-reasons-over-actions)
 - [How to Add Custom Styles in Vale for Effective Documentation](https://codewithpres.hashnode.dev/how-to-add-custom-styles-in-vale-for-effective-documentation)
 - [Enhance Code Documentation with Vale](https://codewithpres.hashnode.dev/enhance-code-documentation-with-vale)
 - [How to Create a Professional Resume Layout in React Using Tailwind CSS](https://codewithpres.hashnode.dev/how-to-create-a-professional-resume-layout-in-react-using-tailwind-css)
-- [Generative AI: A Must-Have Skill for All Professionals](https://codewithpres.hashnode.dev/generative-ai-a-must-have-skill-for-all-professionals)
 <!-- BLOG-POST-LIST:END -->
 
  **<h3 align="center">Skills</h3>**
