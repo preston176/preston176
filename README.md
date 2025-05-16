@@ -18,9 +18,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 🌱 I'm currently learning: **📚 Machine Learning and AI**
+- 🌱 I'm currently working on: **[JobReady - A career growth platform](https://job-ready-ai-ra8z.vercel.app/)**
 - 💬 Ask me about: **💡 JavaScript, Generative AI, Technical Writing, Automation**
-- 📂 Portfolio: **<a href="https://preston176.vercel.app" target="_blank">prestonmayieka.tech</a>**
+- 📂 Portfolio: **<a href="https://preston176.vercel.app" target="_blank">prestonmayieka</a>**
 
 **<h3 align="left">📚 My Latest Articles</h3>**
 
