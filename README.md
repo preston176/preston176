@@ -6,6 +6,7 @@
   </a>
 </p>
 
+
 **<h3 align="center">Connect with me:</h3>**
 
 <p align="center">
@@ -51,6 +52,9 @@
 
 **<h3 align="left">GitHub Stats</h3>**
 
+[![wakatime](https://wakatime.com/badge/user/d8868823-72bc-46a7-8dbd-396ba5326e3a.svg)](https://wakatime.com/@d8868823-72bc-46a7-8dbd-396ba5326e3a)
+
+
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=preston176&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=preston176&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
@@ -62,4 +66,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=120&section=footer" alt="footer"/> 
+
 
